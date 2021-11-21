@@ -1,15 +1,22 @@
-## Welcome to โปรแกรมสาว Pages
+## itthichet thitijaroonroj (Kong)
 
-You can use the [editor on GitHub](https://github.com/itthichetkung/itthichet_profile_tu107/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+นาย อิทธิเชรษฐ์ ธิติจรูญโรจน์ (ก้อง) He/Him  <br >
+📲contact: 061 230 4789 <br >
+✉:itthichet.thi@dome.tu.ac.th <br >
+   kongpmr2002@gmail.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 📓✏การศึกษา📓✏
+ระดับมัธยมปลาย : ห้องเรียนพิเศษMEP-SCI โรงเรียนทวีธาภิเศก🟢⚪ <br >
+ปัจจุบันกำลังศึกษาระดับปริญญาตรี : สาขาวิทยาศาสตร์และนวัตกรรมข้อมูล วิทยาลัยสหวิทยาการ มหาวิทยาลัยธรรมศาสตร์🔴🟡 <br >
 
-```markdown
-Syntax highlighted code block
+### 🏆🥇ผลงาน🏆🥇
+
+
+
+
+### 🏅กิจกรรม🏅
 
 # Header 1
 ## Header 2
