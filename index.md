@@ -1,6 +1,5 @@
+<img src="https://www.img.in.th/images/667c87c8ceb5a7b92de545d124a49b02.jpg" width="300" height="400">
 ## Itthichet Thitijaroonroj (Kong)
-
-
 
 นาย อิทธิเชรษฐ์ ธิติจรูญโรจน์ (ก้อง) He/Him  <br >
 ✉:itthichet.thi@dome.tu.ac.th <br >
